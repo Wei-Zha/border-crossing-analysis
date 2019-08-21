@@ -66,7 +66,7 @@ def read_border_csv_file(input_file,field_indices):
                         this_row[field] = this_field_value
         
                     border_data.append(this_row)                   
-                    print('read in line ' +str(n_record)+'...\t')
+#                    print('read in line ' +str(n_record)+'...\t')
                 n_record +=1
         border_csv.close()
         return border_data
