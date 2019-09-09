@@ -198,7 +198,7 @@ def border_analytics(input_file,output_file):
 #%%
 if __name__ == '__main__':
     if len(sys.argv)<2:
-        print("Function usaage: python border_analytics,py ../input/border_crossing.csv ../output/report.csv")
+        print("Function usaage: python border_analytics.py ../input/border_crossing.csv ../output/report.csv")
         exit 
     input_file = sys.argv[1]
     output_file = sys.argv[2]
