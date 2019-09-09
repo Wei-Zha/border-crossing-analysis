@@ -1,7 +1,7 @@
 # Boder Crossing Analysis
 
 ### Coding challenge (https://github.com/InsightDataScience/border-crossing-analysis)
-This coding challenge problem is solved using python 3 by W. Zha@08/20/2019. I've enjoyed solving this interesting yet practical problem. 
+This coding challenge problem is solved using python3 by W. Zha@08/20/2019.
 
 ## Requires libraries/dependencies
 - import csv
